@@ -1,6 +1,7 @@
 # pickuphp
 
 ## TODO
+ - ~~setup composer~~
  - setup phpunit
  - setup phplint
  - setup php code sniffer
