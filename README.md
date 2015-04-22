@@ -4,7 +4,8 @@
  - ~~setup composer~~
  - ~~setup phpunit~~
     - execute tests with phpunit --bootstrap tests
- - setup phplint
+ - ~~setup phplint~~
+    - installed phplint using npm. Run phplint <folder>/*.php to run phplint
  - setup php code sniffer
  - setup code coverage for phpunit
  - follow code structure best practices
