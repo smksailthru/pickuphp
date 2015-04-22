@@ -2,7 +2,8 @@
 
 ## TODO
  - ~~setup composer~~
- - setup phpunit
+ - ~~setup phpunit~~
+    - execute tests with phpunit --bootstrap tests
  - setup phplint
  - setup php code sniffer
  - setup code coverage for phpunit
