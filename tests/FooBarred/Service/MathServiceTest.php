@@ -4,6 +4,8 @@
  * User: sajitkunnumkal
  * Date: 4/1/15
  * Time: 12:19 PM
+ * The approach here is to use the same namespace as the class being tested. However, we still need to include
+ * the source file.
  */
 
 namespace FooBarred\Service;
@@ -16,9 +18,6 @@ class MathServiceTest extends \PHPUnit_Framework_TestCase{
         $this->assertEquals(0,0);
     }
 
-    /**
-     * @covers MathService::getVersion
-     */
     public function  testVersion(){
         $this->assertEquals(0,MathService::getVersion());
     }
