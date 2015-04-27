@@ -7,9 +7,9 @@
  - ~~setup phplint~~
     - installed phplint using npm. Run phplint <folder>/*.php to run phplint
  - setup php code sniffer
- - setup code coverage for phpunit
+ - ~~setup code coverage for phpunit~~
  - follow code structure best practices
- - add namespaces
+ - ~~add namespaces~~
  - write oo php
  - write functional php
  
