@@ -3,7 +3,7 @@
 ## TODO
  - ~~setup composer~~
  - ~~setup phpunit~~
-    - execute tests with phpunit --bootstrap tests
+    - execute tests with "vendor/phpunit/phpunit/phpunit --bootstrap tests"
  - ~~setup phplint~~
     - installed phplint using npm. Run phplint <folder>/*.php to run phplint
  - setup php code sniffer
